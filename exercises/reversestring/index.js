@@ -13,11 +13,11 @@ function reverse(str) {
 }
 
 // function reverse(str) {
-//   let reversed = '';
-//   for (let character of str) {
-//     reversed = character + reversed;
-//   }
-//   return reversed;
+  // let reversed = '';
+  // for (let character of str) {
+  //   reversed = character + reversed;
+  // }
+  // return reversed;
 // }
 
 // function reverse(str) {
